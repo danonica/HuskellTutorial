@@ -1,2 +1,2 @@
 # HuskellTutorial
-modifed in branch
+modifed in master
